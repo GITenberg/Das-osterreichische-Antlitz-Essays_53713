@@ -1,0 +1,34 @@
+_repo: Das-osterreichische-Antlitz-Essays_53713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salten, Felix
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '35122'
+    url: http://www.gutenberg.org/2009/agents/35122
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Salten
+description: ''
+gutenberg_issued: '2016-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53713'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Vienna (Austria) -- Social life and customs'
+- !lcsh 'Vienna (Austria) -- Intellectual life'
+- !lcsh 'Austria -- Intellectual life'
+- !lcsh 'Austria -- Social life and customs'
+- GITenberg
+tableOfContents: Die Wiener Straße -- Klavierstunde bei Leschetitzky -- Aristokraten-Vorstellung
+  -- Fünfkreuzertanz -- Stalehner -- Beim Brady -- Nachtvergnügen -- Peter Altenberg
+  -- Spaziergang in der Vorstadt -- Lueger -- Girardi-Kainz -- Menagerie in Schönbrunn
+  -- Mauerbach -- Das Wirtshaus von Österreich -- Mariazell -- Radetzky -- Thronrede
+  -- »Gewehr heraus!« -- Frühjahrsparade -- Kaisermanöver -- Elisabeth -- Das österreichische
+  Antlitz.
+title: 'Das österreichische Antlitz: Essays'
+url: http://www.gutenberg.org/ebooks/53713
